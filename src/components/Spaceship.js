@@ -23,3 +23,5 @@ Spaceship.defaultProps = {
   hasRockets: false,
   colors: ['black', 'grey']
 }
+
+export default Spaceship;
